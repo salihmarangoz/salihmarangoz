@@ -3,7 +3,7 @@
 My name is Salih Marangoz and I'm from Turkey. I'm a robotics engineer. On this page you can find my projects, scripts and some documentations. Apart from coding, I also maintain a blog - you can find my articles on my website at [salihmarangoz.github.io](salihmarangoz.github.io)
 
 <a href="https://github.com/salihmarangoz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=salihmarangoz&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&include_all_commits=true" alt="Salih's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=salihmarangoz&show_icons=true&line_height=27&count_private=true&&theme=default&include_all_commits=true" alt="Salih's GitHub Stats" />
 </a>
 
 <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="32" height="32"/> &nbsp;
