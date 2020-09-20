@@ -18,52 +18,12 @@ My name is Salih Marangoz and I'm from Turkey :tr:. I'm a robotics engineer. On 
 <img src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg" alt="opencv" width="64" height="32"/> &nbsp;
 <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg" alt="jupyter" width="64" height="32"/>
 
-<!-- REPOS CARDS -->
+## Utilities
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=salihmarangoz&&theme=vue-dark&repo=UbuntuTweaks" />
-</a>
+- [UbuntuTweaks](https://github.com/salihmarangoz/UbuntuTweaks)
+- [UbuntuTweaks](https://github.com/salihmarangoz/UbuntuTweaks)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=salihmarangoz&&theme=vue-dark&repo=All-in-One-Installer" />
-</a>
+## Projects
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=salihmarangoz&&theme=vue-dark&repo=image2gazebo" />
-</a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=salihmarangoz&&theme=vue-dark&repo=Notebooks" />
-</a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=salihmarangoz&&theme=vue-dark&repo=deep_navigation" />
-</a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=salihmarangoz&&theme=vue-dark&repo=vl53l1x_scanner" />
-</a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=salihmarangoz&&theme=vue-dark&repo=GithubBackup" />
-</a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=salihmarangoz&&theme=vue-dark&repo=DrawOnConsole" />
-</a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=salihmarangoz&&theme=vue-dark&repo=RobotMappingCourse" />
-</a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=salihmarangoz&&theme=vue-dark&repo=PathPlanningGeneticAlgorithm" />
-</a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=salihmarangoz&&theme=vue-dark&repo=ImageGenerationGeneticAlgorithm" />
-</a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=salihmarangoz&&theme=vue-dark&repo=WashingMachineArduinoTimer" />
-</a>
+- [UbuntuTweaks](https://github.com/salihmarangoz/UbuntuTweaks)
+- [UbuntuTweaks](https://github.com/salihmarangoz/UbuntuTweaks)
