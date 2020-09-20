@@ -9,7 +9,7 @@ My name is Salih Marangoz and I'm from Turkey :tr:. I'm a robotics engineer. On 
 
 ## Utilities & Tools
 
-- [UbuntuTweaks](https://github.com/salihmarangoz/UbuntuTweaks)
+- [UbuntuTweaks](https://github.com/salihmarangoz/UbuntuTweaks) `Ubuntu tweaks for speeding up the PC and fixing problems`
 - [All-in-One-Installer](https://github.com/salihmarangoz/All-in-One-Installer)
 - [image2gazebo](https://github.com/salihmarangoz/image2gazebo)
 - [GithubBackup](https://github.com/salihmarangoz/GithubBackup)
