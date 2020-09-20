@@ -1,11 +1,27 @@
 # Hi there! :wave: 
 
 My name is Salih Marangoz and I'm from Turkey :tr:. I'm a robotics engineer. On this page you can find my projects, scripts and some documentations. Apart from coding, I also maintain a blog - you can find my articles on my website at [salihmarangoz.github.io](salihmarangoz.github.io)
-<!--
-<a href="https://github.com/salihmarangoz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=salihmarangoz&show_icons=true&line_height=27&count_private=true&&theme=default&include_all_commits=true" alt="Salih's GitHub Stats" />
-</a>
--->
+
+## Course Notes & Notebooks
+
+- [Notebooks](https://github.com/salihmarangoz/Notebooks)
+- [RobotMappingCourse](https://github.com/salihmarangoz/RobotMappingCourse)
+
+## Utilities & Tools
+
+- [UbuntuTweaks](https://github.com/salihmarangoz/UbuntuTweaks)
+- [All-in-One-Installer](https://github.com/salihmarangoz/All-in-One-Installer)
+- [image2gazebo](https://github.com/salihmarangoz/image2gazebo)
+- [GithubBackup](https://github.com/salihmarangoz/GithubBackup)
+
+## Projects
+
+- [deep_navigation](https://github.com/salihmarangoz/deep_navigation)
+- [vl53l1x_scanner](https://github.com/salihmarangoz/vl53l1x_scanner)
+- [DrawOnConsole](https://github.com/salihmarangoz/DrawOnConsole)
+- [PathPlanningGeneticAlgorithm](https://github.com/salihmarangoz/PathPlanningGeneticAlgorithm)
+- [ImageGenerationGeneticAlgorithm](https://github.com/salihmarangoz/ImageGenerationGeneticAlgorithm)
+- [WashingMachineArduinoTimer](https://github.com/salihmarangoz/WashingMachineArduinoTimer)
 
 <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="32" height="32"/> &nbsp;
 <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="32" height="32"/> &nbsp;
@@ -17,13 +33,3 @@ My name is Salih Marangoz and I'm from Turkey :tr:. I'm a robotics engineer. On 
 <img src="https://raw.githubusercontent.com/ros-infrastructure/artwork/master/ros_logo.svg" alt="ros" width="64" height="32"/> &nbsp;
 <img src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg" alt="opencv" width="64" height="32"/> &nbsp;
 <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg" alt="jupyter" width="64" height="32"/>
-
-## Utilities
-
-- [UbuntuTweaks](https://github.com/salihmarangoz/UbuntuTweaks)
-- [UbuntuTweaks](https://github.com/salihmarangoz/UbuntuTweaks)
-
-## Projects
-
-- [UbuntuTweaks](https://github.com/salihmarangoz/UbuntuTweaks)
-- [UbuntuTweaks](https://github.com/salihmarangoz/UbuntuTweaks)
