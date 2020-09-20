@@ -1,6 +1,6 @@
 # Hi there! :wave: 
 
-My name is Salih Marangoz and I'm from Turkey :tr:. I'm a robotics engineer. On this page you can find my projects, scripts and some documentations. Apart from coding, I also maintain a blog - you can find my articles on my website at [salihmarangoz.github.io](salihmarangoz.github.io)
+My name is Salih Marangoz and I'm from Turkey :tr:. I'm a robotics engineer. On this page you can find my projects, scripts and some tools. Apart from coding, I also maintain a blog - you can find my articles on my website at [salihmarangoz.github.io](salihmarangoz.github.io)
 
 ## Course Notes & Notebooks
 
@@ -9,7 +9,7 @@ My name is Salih Marangoz and I'm from Turkey :tr:. I'm a robotics engineer. On 
 
 ## Utilities & Tools
 
-- [UbuntuTweaks](https://github.com/salihmarangoz/UbuntuTweaks) `Ubuntu tweaks for speeding up the PC and fixing problems`
+- [UbuntuTweaks](https://github.com/salihmarangoz/UbuntuTweaks)
 - [All-in-One-Installer](https://github.com/salihmarangoz/All-in-One-Installer)
 - [image2gazebo](https://github.com/salihmarangoz/image2gazebo)
 - [GithubBackup](https://github.com/salihmarangoz/GithubBackup)
@@ -19,9 +19,9 @@ My name is Salih Marangoz and I'm from Turkey :tr:. I'm a robotics engineer. On 
 - [deep_navigation](https://github.com/salihmarangoz/deep_navigation)
 - [vl53l1x_scanner](https://github.com/salihmarangoz/vl53l1x_scanner)
 - [DrawOnConsole](https://github.com/salihmarangoz/DrawOnConsole)
+- [WashingMachineArduinoTimer](https://github.com/salihmarangoz/WashingMachineArduinoTimer)
 - [PathPlanningGeneticAlgorithm](https://github.com/salihmarangoz/PathPlanningGeneticAlgorithm)
 - [ImageGenerationGeneticAlgorithm](https://github.com/salihmarangoz/ImageGenerationGeneticAlgorithm)
-- [WashingMachineArduinoTimer](https://github.com/salihmarangoz/WashingMachineArduinoTimer)
 
 <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="32" height="32"/> &nbsp;
 <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="32" height="32"/> &nbsp;
