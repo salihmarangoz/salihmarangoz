@@ -23,6 +23,8 @@ My name is Salih Marangoz and I'm from Turkey :tr:. I'm a robotics engineer. On 
 - [PathPlanningGeneticAlgorithm](https://github.com/salihmarangoz/PathPlanningGeneticAlgorithm)
 - [ImageGenerationGeneticAlgorithm](https://github.com/salihmarangoz/ImageGenerationGeneticAlgorithm)
 
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="salih-marangoz"><a class="LI-simple-link" href='https://de.linkedin.com/in/salih-marangoz?trk=profile-badge'>Salih Marangoz</a></div>
+
 <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="32" height="32"/> &nbsp;
 <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="32" height="32"/> &nbsp;
 <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="32" height="32"/> &nbsp;
