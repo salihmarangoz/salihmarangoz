@@ -2,15 +2,13 @@
 
 My name is Salih Marangoz and I'm from Turkey :tr:. I'm a robotics engineer. On this page you can find my projects, scripts and some tools. Apart from coding, I also maintain a blog - you can find my articles on my website at [salihmarangoz.github.io](salihmarangoz.github.io)
 
-## Course Notes & Notebooks
+## Course Notes
 
-- [Notebooks](https://github.com/salihmarangoz/Notebooks)
 - [RobotMappingCourse](https://github.com/salihmarangoz/RobotMappingCourse)
 
 ## Utilities & Tools
 
 - [UbuntuTweaks](https://github.com/salihmarangoz/UbuntuTweaks)
-- [All-in-One-Installer](https://github.com/salihmarangoz/All-in-One-Installer)
 - [image2gazebo](https://github.com/salihmarangoz/image2gazebo)
 - [GithubBackup](https://github.com/salihmarangoz/GithubBackup)
 
