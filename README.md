@@ -14,6 +14,7 @@ My name is Salih Marangoz and I'm from Turkey :tr:. I'm a robotics engineer. On 
 
 ## Projects
 
+- [basic_grid_mapping](https://github.com/salihmarangoz/basic_grid_mapping)
 - [basic_robot_simulator](https://github.com/salihmarangoz/basic_robot_simulator)
 - [deep_navigation](https://github.com/salihmarangoz/deep_navigation)
 - [vl53l1x_scanner](https://github.com/salihmarangoz/vl53l1x_scanner)
