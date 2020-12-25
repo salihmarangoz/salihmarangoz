@@ -2,22 +2,22 @@
 
 My name is Salih Marangoz and I'm from Turkey :tr:. I'm a robotics engineer. On this page you can find my projects, scripts and some tools. Apart from coding, I also maintain a blog - you can find my articles on my website at [salihmarangoz.github.io](salihmarangoz.github.io)
 
-## Course Notes
+## Robot Projects & Tools
+- [robot_laser_grid_mapping](https://github.com/salihmarangoz/robot_laser_grid_mapping)
+- [robot_laser_simulator](https://github.com/salihmarangoz/robot_laser_simulator)
+- [robot_landmark_simulator](https://github.com/salihmarangoz/robot_landmark_simulator)
+- [deep_navigation](https://github.com/salihmarangoz/deep_navigation)
+- [vl53l1x_scanner](https://github.com/salihmarangoz/vl53l1x_scanner)
+- [image2gazebo](https://github.com/salihmarangoz/image2gazebo)
 
+## Course Notes
 - [RobotMappingCourse](https://github.com/salihmarangoz/RobotMappingCourse)
 
 ## Utilities & Tools
-
 - [UbuntuTweaks](https://github.com/salihmarangoz/UbuntuTweaks)
-- [image2gazebo](https://github.com/salihmarangoz/image2gazebo)
 - [GithubBackup](https://github.com/salihmarangoz/GithubBackup)
 
-## Projects
-
-- [basic_grid_mapping](https://github.com/salihmarangoz/basic_grid_mapping)
-- [basic_robot_simulator](https://github.com/salihmarangoz/basic_robot_simulator)
-- [deep_navigation](https://github.com/salihmarangoz/deep_navigation)
-- [vl53l1x_scanner](https://github.com/salihmarangoz/vl53l1x_scanner)
+## Other Projects
 - [DrawOnConsole](https://github.com/salihmarangoz/DrawOnConsole)
 - [WashingMachineArduinoTimer](https://github.com/salihmarangoz/WashingMachineArduinoTimer)
 - [PathPlanningGeneticAlgorithm](https://github.com/salihmarangoz/PathPlanningGeneticAlgorithm)
