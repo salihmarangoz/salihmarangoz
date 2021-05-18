@@ -1,6 +1,6 @@
 # Hi there! :wave: 
 
-My name is Salih Marangoz and I'm from Turkey :tr:. On this page you can find my projects, notebooks, scripts and tools. You can find my personal website at [salihmarangoz.github.io](https://salihmarangoz.github.io)
+My name is Salih Marangoz and I'm from Turkey :tr:. On this page you can find my projects, notebooks, scripts and tools. You can find my personal website at [salihmarangoz.github.io](https://salihmarangoz.github.io) (I didn't start posting yet) and YouTube channel [here](https://www.youtube.com/channel/UCu8rMm9uYrH-wwY1gI--fSQ).
 
 ## Notebooks & Notes
 
@@ -18,9 +18,10 @@ My name is Salih Marangoz and I'm from Turkey :tr:. On this page you can find my
 - [deep_navigation](https://github.com/salihmarangoz/deep_navigation)
 - [vl53l1x_scanner](https://github.com/salihmarangoz/vl53l1x_scanner)
 - [image2gazebo](https://github.com/salihmarangoz/image2gazebo)
+- [RobotMappingCourse](https://github.com/salihmarangoz/RobotMappingCourse)
 
 ## Other Projects
-- [RobotMappingCourse](https://github.com/salihmarangoz/RobotMappingCourse)
+- [github_ci_nbconvert](https://github.com/salihmarangoz/github_ci_nbconvert)
 - [DrawOnConsole](https://github.com/salihmarangoz/DrawOnConsole)
 - [WashingMachineArduinoTimer](https://github.com/salihmarangoz/WashingMachineArduinoTimer)
 - [PathPlanningGeneticAlgorithm](https://github.com/salihmarangoz/PathPlanningGeneticAlgorithm)
