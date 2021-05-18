@@ -21,6 +21,7 @@ My name is Salih Marangoz and I'm from Turkey :tr:. On this page you can find my
 ## Miscellaneous Projects
 
 - [github_ci_nbconvert](https://github.com/salihmarangoz/github_ci_nbconvert)
+- [cpm_script](https://github.com/salihmarangoz/cpm_script)
 - [GithubBackup](https://github.com/salihmarangoz/GithubBackup)
 - [DrawOnConsole](https://github.com/salihmarangoz/DrawOnConsole)
 - [WashingMachineArduinoTimer](https://github.com/salihmarangoz/WashingMachineArduinoTimer)
