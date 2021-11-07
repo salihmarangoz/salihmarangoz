@@ -21,8 +21,8 @@ for o in out:
         repos.append(o)
         print(o["topics"], o["description"])
 
-readme.append("\n\n\n\n\n")
-readme.append("Last updated: " + time.ctime(time.time()) + "\n")
+#readme.append("\n\n\n\n\n")
+#readme.append("Last updated: " + time.ctime(time.time()) + "\n")
 
 f = open("README.md", "w")
 f.writelines(readme)

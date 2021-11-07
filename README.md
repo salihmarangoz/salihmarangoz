@@ -28,9 +28,3 @@ I am Salih from Turkey :tr:. On this page; you can find my projects, notebooks, 
 - [PathPlanningGeneticAlgorithm](https://github.com/salihmarangoz/PathPlanningGeneticAlgorithm)
 - [ImageGenerationGeneticAlgorithm](https://github.com/salihmarangoz/ImageGenerationGeneticAlgorithm)
 
-
-
-
-
-
-Last updated: Sun Nov  7 12:18:33 2021
