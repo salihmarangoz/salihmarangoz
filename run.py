@@ -6,11 +6,12 @@ from datetime import datetime
 
 
 class ReadmeGenerator:
-    def __init__(self, username, sort_list_with_stargazers=False, add_timestamp=False):
+    def __init__(self, username, sort_list_with_stargazers=False, add_timestamp=False, add_badge=False):
         self.api = self.get_github_api()
         self.username = username
         self.sort_list_with_stargazers = sort_list_with_stargazers
         self.add_timestamp = add_timestamp
+        self.add_badge = add_badge
 
 
     def get_github_api(self):
@@ -65,12 +66,15 @@ class ReadmeGenerator:
 
         if self.add_timestamp:
             readme.append("\n\n\n")
-            readme.append("Last updated: " + str(time.ctime()))
+            readme.append("Last updated: " + str(time.ctime()) + "\n")
+
+        if self.add_badge:
+            readme.append("[![automated-profile-updater](https://github.com/{}/{}/actions/workflows/update.yml/badge.svg)](https://github.com/{}/{}/actions/workflows/update.yml)\n".format(self.username,self.username,self.username,self.username))
 
         f = open(output_path, "w")
         f.writelines(readme)
         f.close()
 
 # Parameters:
-rg = ReadmeGenerator(username="salihmarangoz", sort_list_with_stargazers=False, add_timestamp=True)
+rg = ReadmeGenerator(username="salihmarangoz", sort_list_with_stargazers=False, add_timestamp=True, add_badge=True)
 rg.build()
