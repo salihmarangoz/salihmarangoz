@@ -42,7 +42,7 @@ class ReadmeGenerator:
         f = open(template_path)
         readme = f.readlines()
 
-        categories = {"Favorites": "gh-favorites",
+        categories = {"My Current Favorites": "gh-favorites",
                       "Robotics": "gh-robotics",
                       "Deep Learning / Machine Learning": "gh-dlml",
                       "Miscellaneous": None}
