@@ -54,7 +54,11 @@ class ReadmeGenerator:
 
         for c, t in categories.items():
             readme.append("## {}\n".format(c))
-            new_table, repos = self.generate_repositories_table(repos=repos, category=t)
+            if t == "gh-favorites":
+                readme.append("Note: Projects in this section may reappear in other categories.\n")
+                new_table, _ = self.generate_repositories_table(repos=repos, category=t)
+            else:
+                new_table, repos = self.generate_repositories_table(repos=repos, category=t)
             readme.extend(new_table)
 
         f = open(output_path, "w")
