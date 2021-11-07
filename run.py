@@ -2,13 +2,15 @@
 import time
 from ghapi.all import GhApi
 import os
+from datetime import datetime
 
 
 class ReadmeGenerator:
-    def __init__(self, username, sort_list_with_stargazers=False):
+    def __init__(self, username, sort_list_with_stargazers=False, add_timestamp=False):
         self.api = self.get_github_api()
         self.username = username
         self.sort_list_with_stargazers = sort_list_with_stargazers
+        self.add_timestamp = add_timestamp
 
 
     def get_github_api(self):
@@ -61,10 +63,14 @@ class ReadmeGenerator:
                 new_table, repos = self.generate_repositories_table(repos=repos, category=t)
             readme.extend(new_table)
 
+        if self.add_timestamp:
+            readme.append("\n\n\n")
+            readme.append("Last updated: " + str(time.ctime()))
+
         f = open(output_path, "w")
         f.writelines(readme)
         f.close()
 
 # Parameters:
-rg = ReadmeGenerator(username="salihmarangoz", sort_list_with_stargazers=False)
+rg = ReadmeGenerator(username="salihmarangoz", sort_list_with_stargazers=False, add_timestamp=True)
 rg.build()
