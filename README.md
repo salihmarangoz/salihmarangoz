@@ -4,7 +4,7 @@ I am Salih from Turkey :tr:. On this page; you can find my projects, notebooks, 
 
 ## My Projects
 
-I am currently trying to automate generation of this section. `TODO: add toc here`
+I am currently trying to automate generation of this section. 
 
 <!-- START doctoc -->
 <!-- END doctoc -->
