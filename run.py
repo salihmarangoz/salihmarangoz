@@ -30,7 +30,7 @@ class ReadmeGenerator:
         to_be_deleted = []
         for o in repos:
             if not o["fork"] and o["name"] not in exclude_repos:
-                if category is None or "gh_"+category in o["topics"]:
+                if category is None or category in o["topics"]:
                     readme.append("| {} | {} | [{}]({}) | {} |\n".format(o["stargazers_count"], o["forks_count"], o["name"], o["html_url"], o["description"]))
                     to_be_deleted.append(o)
 
@@ -52,9 +52,9 @@ class ReadmeGenerator:
         if self.sort_list_with_stargazers:
             repos = sorted(repos, key=lambda d: d['stargazers_count'], reverse=True) 
 
-        for t, c in categories.items():
-            readme.append("## {}\n".format(t))
-            new_table, repos = self.generate_repositories_table(repos=repos, category=c)
+        for c, t in categories.items():
+            readme.append("## {}\n".format(c))
+            new_table, repos = self.generate_repositories_table(repos=repos, category=t)
             readme.extend(new_table)
 
         f = open(output_path, "w")
