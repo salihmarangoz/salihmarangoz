@@ -42,9 +42,9 @@ class ReadmeGenerator:
         f = open(template_path)
         readme = f.readlines()
 
-        categories = {"Favorites": "gh_favorites",
-                      "Robotics": "gh_robotics",
-                      "Deep Learning / Machine Learning": "gh_dlml",
+        categories = {"Favorites": "gh-favorites",
+                      "Robotics": "gh-robotics",
+                      "Deep Learning / Machine Learning": "gh-dlml",
                       "Miscellaneous": None}
 
         repos = self.api.repos.list_for_user(username=self.username, per_page=100, sort="pushed")

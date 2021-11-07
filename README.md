@@ -1,6 +1,6 @@
 # Hi there! :wave: 
 
-Welcome! I am Salih from Turkey :tr:. You can find my personal website at [salihmarangoz.github.io](https://salihmarangoz.github.io) and my YouTube channel [here](https://www.youtube.com/channel/UCu8rMm9uYrH-wwY1gI--fSQ). On this page; you can find my projects, notebooks, scripts, and tools. Also, I have categorized and summarized my projects as seen below for you. I wish you a good day!
+Welcome! I am Salih from Turkey :tr:. You can find my personal website at [salihmarangoz.github.io](https://salihmarangoz.github.io) and my YouTube channel [here](https://www.youtube.com/channel/UCu8rMm9uYrH-wwY1gI--fSQ). On this page; you can find my projects, notebooks, scripts, and tools. Also, I have categorized and summarized my projects as seen below for you. Recent and active projects are located on the first rows of tables. I wish you a good day!
 
 
 
@@ -24,6 +24,7 @@ Welcome! I am Salih from Turkey :tr:. You can find my personal website at [salih
 | 6 | 2 | [github_ci_nbconvert](https://github.com/salihmarangoz/github_ci_nbconvert) | Convert notebook (*.ipynb) files using Github Actions automatically after each commit and access HTML outputs with a public URL using Github Pages |
 | 0 | 0 | [notebooks](https://github.com/salihmarangoz/notebooks) | My Jupyter Notebooks / Notes |
 | 1 | 0 | [extract_line_segments](https://github.com/salihmarangoz/extract_line_segments) | Line segment extraction from ROS LaserScan using Douglas-Peucker algorithm. |
+| 0 | 0 | [cpm_script](https://github.com/salihmarangoz/cpm_script) | A simple cmake package manager script |
 | 0 | 0 | [robot_laser_simulator](https://github.com/salihmarangoz/robot_laser_simulator) | None |
 | 5 | 5 | [robot_laser_grid_mapping](https://github.com/salihmarangoz/robot_laser_grid_mapping) | None |
 | 0 | 0 | [robot_landmark_simulator](https://github.com/salihmarangoz/robot_landmark_simulator) | None |
