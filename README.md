@@ -27,7 +27,7 @@ Note: Projects in this section may reappear in other categories.
 | ----- | ----- | ---------- | ----------- |
 | 0 | 0 | [turkish_tea_optimization](https://github.com/salihmarangoz/turkish_tea_optimization) | My journey to find the best way for brewing tea. |
 | 0 | 0 | [notebooks](https://github.com/salihmarangoz/notebooks) | My Jupyter Notebooks / Notes |
-| 1 | 0 | [PathPlanningGeneticAlgorithm](https://github.com/salihmarangoz/PathPlanningGeneticAlgorithm) | Path planning with genetic algorithm on 2D grid |
+| 2 | 0 | [PathPlanningGeneticAlgorithm](https://github.com/salihmarangoz/PathPlanningGeneticAlgorithm) | Path planning with genetic algorithm on 2D grid |
 | 0 | 0 | [ImageGenerationGeneticAlgorithm](https://github.com/salihmarangoz/ImageGenerationGeneticAlgorithm) | Image generation using shapes with genetic algorithm |
 ## Miscellaneous
 | Stars | Forks | Repository | Description |
@@ -44,4 +44,4 @@ Note: Projects in this section may reappear in other categories.
 
 
 
-Last updated: Sun Nov  7 19:52:30 2021
+Last updated: Sun Nov  7 20:19:06 2021
