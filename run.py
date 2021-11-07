@@ -64,12 +64,13 @@ class ReadmeGenerator:
                 new_table, repos = self.generate_repositories_table(repos=repos, category=t)
             readme.extend(new_table)
 
+        if self.add_badge:
+            readme.append("\n[![automated-profile-updater](https://github.com/{}/{}/actions/workflows/update.yml/badge.svg)](https://github.com/{}/{}/actions/workflows/update.yml)\n".format(self.username,self.username,self.username,self.username))
+
         if self.add_timestamp:
             readme.append("\n\n\n")
             readme.append("Last updated: " + str(time.ctime()) + "\n")
 
-        if self.add_badge:
-            readme.append("[![automated-profile-updater](https://github.com/{}/{}/actions/workflows/update.yml/badge.svg)](https://github.com/{}/{}/actions/workflows/update.yml)\n".format(self.username,self.username,self.username,self.username))
 
         f = open(output_path, "w")
         f.writelines(readme)
