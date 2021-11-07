@@ -18,18 +18,13 @@ jobs:
           python-version: '3.7.7' # install the python version needed
           
       - name: install python packages
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          GITHUB_TOKEN=${{ secrets.EMAIL_ADDRESS }}
           python -m pip install --upgrade pip
           pip install -r .github/requirements.txt
           
       - name: execute py script
         env: 
-          EMAIL_ADDRESS: ${{ secrets.EMAIL_ADDRESS }}
-          EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
-          EMAIL_RECIPIENT: ${{ secrets.EMAIL_RECIPIENT }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python .github/run.py
           
       - name: commit files
