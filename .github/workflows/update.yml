@@ -39,5 +39,7 @@ jobs:
 
       - name: toc generator # https://github.com/technote-space/toc-generator
         uses: technote-space/toc-generator@v4
+        with:
+          TOC_TITLE: 
 
 # source: https://canovasjm.netlify.app/2020/11/29/github-actions-run-a-python-script-on-schedule-and-commit-changes/

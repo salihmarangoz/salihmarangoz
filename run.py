@@ -42,17 +42,18 @@ class ReadmeGenerator:
         f = open(template_path)
         readme = f.readlines()
 
-        categories = [None] # "favorites", 
+        categories = {"Favorites": "gh_favorites",
+                      "Robotics": "gh_robotics",
+                      "Deep Learning / Machine Learning": "gh_dlml",
+                      "Miscellaneous": None}
+
         repos = self.api.repos.list_for_user(username=self.username, per_page=100, sort="pushed")
 
         if self.sort_list_with_stargazers:
             repos = sorted(repos, key=lambda d: d['stargazers_count'], reverse=True) 
 
-        for c in categories:
-            if c is None:
-                readme.append("### {}\n".format("Miscellaneous"))
-            else:
-                readme.append("### {}\n".format(c.title()))
+        for t, c in categories.items():
+            readme.append("## {}\n".format(t))
             new_table, repos = self.generate_repositories_table(repos=repos, category=c)
             readme.extend(new_table)
 
