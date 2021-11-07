@@ -27,4 +27,3 @@ I am Salih from Turkey :tr:. On this page; you can find my projects, notebooks, 
 - [WashingMachineArduinoTimer](https://github.com/salihmarangoz/WashingMachineArduinoTimer)
 - [PathPlanningGeneticAlgorithm](https://github.com/salihmarangoz/PathPlanningGeneticAlgorithm)
 - [ImageGenerationGeneticAlgorithm](https://github.com/salihmarangoz/ImageGenerationGeneticAlgorithm)
-
