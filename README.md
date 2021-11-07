@@ -4,11 +4,11 @@ Welcome! I am Salih from Turkey :tr:. You can find my personal website at [salih
 
 
 
-## Favorites
+## My Current Favorites
 Note: Projects in this section may reappear in other categories.
 | Stars | Forks | Repository | Description |
 | ----- | ----- | ---------- | ----------- |
-| 8 | 2 | [system_tray_extensions](https://github.com/salihmarangoz/system_tray_extensions) | None |
+| 8 | 2 | [system_tray_extensions](https://github.com/salihmarangoz/system_tray_extensions) | System tray toolbox for Linux laptops. |
 | 16 | 3 | [UbuntuTweaks](https://github.com/salihmarangoz/UbuntuTweaks) | Ubuntu tweaks for speeding up the PC, fixing problems and installing nice utilities/tools |
 | 0 | 0 | [notebooks](https://github.com/salihmarangoz/notebooks) | My Jupyter Notebooks / Notes |
 ## Robotics
@@ -33,9 +33,9 @@ Note: Projects in this section may reappear in other categories.
 | Stars | Forks | Repository | Description |
 | ----- | ----- | ---------- | ----------- |
 | 0 | 0 | [salihmarangoz](https://github.com/salihmarangoz/salihmarangoz) | My GitHub profile repository. README.md file is automatically generated according to my profile. |
-| 8 | 2 | [system_tray_extensions](https://github.com/salihmarangoz/system_tray_extensions) | None |
+| 8 | 2 | [system_tray_extensions](https://github.com/salihmarangoz/system_tray_extensions) | System tray toolbox for Linux laptops. |
 | 16 | 3 | [UbuntuTweaks](https://github.com/salihmarangoz/UbuntuTweaks) | Ubuntu tweaks for speeding up the PC, fixing problems and installing nice utilities/tools |
-| 0 | 0 | [prevent_touchpad_toggle](https://github.com/salihmarangoz/prevent_touchpad_toggle) | None |
+| 0 | 0 | [prevent_touchpad_toggle](https://github.com/salihmarangoz/prevent_touchpad_toggle) | Scripts for disabling touchpad toggle button to improve typing experience. |
 | 6 | 2 | [github_ci_nbconvert](https://github.com/salihmarangoz/github_ci_nbconvert) | Convert notebook (*.ipynb) files using Github Actions automatically after each commit and access HTML outputs with a public URL using Github Pages |
 | 0 | 0 | [cpm_script](https://github.com/salihmarangoz/cpm_script) | A simple cmake package manager script |
 | 0 | 0 | [GithubBackup](https://github.com/salihmarangoz/GithubBackup) | Github backup script for private, forked and starred repositories |
