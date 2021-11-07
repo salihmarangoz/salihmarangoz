@@ -6,6 +6,11 @@ I am Salih from Turkey :tr:. On this page; you can find my projects, notebooks, 
 
 I am currently trying to automate generation of this section. `TODO: add toc here`
 
+<!-- START doctoc -->
+<!-- END doctoc -->
+
+
+
 ### Miscellaneous
 | Stars | Forks | Repository | Description |
 | ----- | ----- | ---------- | ----------- |
@@ -18,7 +23,7 @@ I am currently trying to automate generation of this section. `TODO: add toc her
 | 0 | 0 | [notebooks](https://github.com/salihmarangoz/notebooks) | My Jupyter Notebooks / Notes |
 | 1 | 0 | [extract_line_segments](https://github.com/salihmarangoz/extract_line_segments) | Line segment extraction from ROS LaserScan using Douglas-Peucker algorithm. |
 | 0 | 0 | [robot_laser_simulator](https://github.com/salihmarangoz/robot_laser_simulator) | None |
-| 4 | 5 | [robot_laser_grid_mapping](https://github.com/salihmarangoz/robot_laser_grid_mapping) | None |
+| 5 | 5 | [robot_laser_grid_mapping](https://github.com/salihmarangoz/robot_laser_grid_mapping) | None |
 | 0 | 0 | [robot_landmark_simulator](https://github.com/salihmarangoz/robot_landmark_simulator) | None |
 | 1 | 0 | [image2gazebo](https://github.com/salihmarangoz/image2gazebo) | Generates SDF model for Gazebo Simulator using a PNG bitmap file |
 | 3 | 1 | [deep_navigation](https://github.com/salihmarangoz/deep_navigation) | Deep Learning based wall/corridor following P3AT robot (ROS, Tensorflow 2.0) |
