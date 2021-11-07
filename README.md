@@ -4,8 +4,12 @@ I am Salih from Turkey :tr:. On this page; you can find my projects, notebooks, 
 
 **My projects**
 
-<!-- START doctoc -->
-<!-- END doctoc -->
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+- [Favorites](#favorites)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 
 
