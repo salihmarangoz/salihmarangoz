@@ -23,8 +23,6 @@ jobs:
           pip install -r .github/requirements.txt
           
       - name: execute py script
-        env: 
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python .github/run.py
           
       - name: commit files

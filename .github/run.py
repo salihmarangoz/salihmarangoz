@@ -9,12 +9,13 @@ readme = f.readlines()
 
 
 # https://ghapi.fast.ai/fullapi.html
-github_token = os.environ['GITHUB_TOKEN']
-api = GhApi(token=github_token)
+#github_token = os.environ['GITHUB_TOKEN']
+#api = GhApi(token=github_token)
+api = GhApi()
 #github_user = api.users.get_authenticated() # github_user["login"]
 
 repos = []
-out = api.repos.list_for_authenticated_user(per_page=100, sort="pushed", type="owner")
+out = api.repos.list_for_user(username="salihmarangoz", per_page=100, sort="pushed", type="owner")
 for o in out:
     if not o["fork"]:
         repos.append(o)
