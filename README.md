@@ -5,6 +5,7 @@ Welcome! I am Salih from Turkey :tr:. You can find my personal website at [salih
 
 
 ## Favorites
+Note: Projects in this section may reappear in other categories.
 | Stars | Forks | Repository | Description |
 | ----- | ----- | ---------- | ----------- |
 | 8 | 2 | [system_tray_extensions](https://github.com/salihmarangoz/system_tray_extensions) | None |
@@ -24,13 +25,16 @@ Welcome! I am Salih from Turkey :tr:. You can find my personal website at [salih
 ## Deep Learning / Machine Learning
 | Stars | Forks | Repository | Description |
 | ----- | ----- | ---------- | ----------- |
+| 0 | 0 | [turkish_tea_optimization](https://github.com/salihmarangoz/turkish_tea_optimization) | None |
+| 0 | 0 | [notebooks](https://github.com/salihmarangoz/notebooks) | My Jupyter Notebooks / Notes |
 | 1 | 0 | [PathPlanningGeneticAlgorithm](https://github.com/salihmarangoz/PathPlanningGeneticAlgorithm) | Path planning with genetic algorithm |
 | 0 | 0 | [ImageGenerationGeneticAlgorithm](https://github.com/salihmarangoz/ImageGenerationGeneticAlgorithm) | Image generation using shapes with genetic algorithm |
 ## Miscellaneous
 | Stars | Forks | Repository | Description |
 | ----- | ----- | ---------- | ----------- |
-| 0 | 0 | [salihmarangoz](https://github.com/salihmarangoz/salihmarangoz) | My GitHub profile repository. Readme file is automatically generated according to my profile. |
-| 0 | 0 | [turkish_tea_optimization](https://github.com/salihmarangoz/turkish_tea_optimization) | None |
+| 0 | 0 | [salihmarangoz](https://github.com/salihmarangoz/salihmarangoz) | My GitHub profile repository. README.md file is automatically generated according to my profile. |
+| 8 | 2 | [system_tray_extensions](https://github.com/salihmarangoz/system_tray_extensions) | None |
+| 16 | 3 | [UbuntuTweaks](https://github.com/salihmarangoz/UbuntuTweaks) | Ubuntu tweaks for speeding up the PC, fixing problems and installing nice utilities/tools |
 | 0 | 0 | [prevent_touchpad_toggle](https://github.com/salihmarangoz/prevent_touchpad_toggle) | None |
 | 6 | 2 | [github_ci_nbconvert](https://github.com/salihmarangoz/github_ci_nbconvert) | Convert notebook (*.ipynb) files using Github Actions automatically after each commit and access HTML outputs with a public URL using Github Pages |
 | 0 | 0 | [cpm_script](https://github.com/salihmarangoz/cpm_script) | A simple cmake package manager script |
