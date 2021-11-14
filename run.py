@@ -91,7 +91,7 @@ class ReadmeGenerator:
             for o in repos:
                 if not o["fork"] and o["name"] not in exclude_repos:
                     if category is None or category in o["topics"]:
-                        readme.append("[**{}**]({}) ({}:star:): {} \n".format(o["name"], o["html_url"], o["stargazers_count"], o["description"]))
+                        readme.append("[**{}**]({}) ({}:star:): {} \n\n".format(o["name"], o["html_url"], o["stargazers_count"], o["description"]))
                         to_be_deleted.append(o)
 
             filtered_repos = [x for x in repos if (x not in to_be_deleted)]
