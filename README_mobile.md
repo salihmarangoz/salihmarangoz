@@ -20,8 +20,9 @@ Note: Projects in this section may reappear in other categories.
 ## Miscellaneous
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=salihmarangoz&repo=salihmarangoz)](https://github.com/salihmarangoz/salihmarangoz)[![](https://github-readme-stats.vercel.app/api/pin/?username=salihmarangoz&repo=system_tray_extensions)](https://github.com/salihmarangoz/system_tray_extensions)[![](https://github-readme-stats.vercel.app/api/pin/?username=salihmarangoz&repo=UbuntuTweaks)](https://github.com/salihmarangoz/UbuntuTweaks)[![](https://github-readme-stats.vercel.app/api/pin/?username=salihmarangoz&repo=prevent_touchpad_toggle)](https://github.com/salihmarangoz/prevent_touchpad_toggle)[![](https://github-readme-stats.vercel.app/api/pin/?username=salihmarangoz&repo=github_ci_nbconvert)](https://github.com/salihmarangoz/github_ci_nbconvert)[![](https://github-readme-stats.vercel.app/api/pin/?username=salihmarangoz&repo=cpm_script)](https://github.com/salihmarangoz/cpm_script)[![](https://github-readme-stats.vercel.app/api/pin/?username=salihmarangoz&repo=GithubBackup)](https://github.com/salihmarangoz/GithubBackup)[![](https://github-readme-stats.vercel.app/api/pin/?username=salihmarangoz&repo=DrawOnConsole)](https://github.com/salihmarangoz/DrawOnConsole)[![](https://github-readme-stats.vercel.app/api/pin/?username=salihmarangoz&repo=WashingMachineArduinoTimer)](https://github.com/salihmarangoz/WashingMachineArduinoTimer)
+
 [![automated-profile-updater](https://github.com/salihmarangoz/salihmarangoz/actions/workflows/update.yml/badge.svg)](https://github.com/salihmarangoz/salihmarangoz/actions/workflows/update.yml)
 
 
 
-Last updated: Sun Nov 14 14:41:44 2021
+Last updated: Sun Nov 14 14:45:18 2021
