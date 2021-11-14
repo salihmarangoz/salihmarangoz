@@ -75,7 +75,7 @@ class ReadmeGenerator:
         print("\n")
 
         if self.add_badge:
-            readme.append("\n[![automated-profile-updater](https://github.com/{}/{}/actions/workflows/update.yml/badge.svg)](https://github.com/{}/{}/actions/workflows/update.yml)\n".format(self.username,self.username,self.username,self.username))
+            readme.append("\n\n[![automated-profile-updater](https://github.com/{}/{}/actions/workflows/update.yml/badge.svg)](https://github.com/{}/{}/actions/workflows/update.yml)\n".format(self.username,self.username,self.username,self.username))
 
         if self.add_timestamp:
             readme.append("\n\n\n")
@@ -133,7 +133,7 @@ class ReadmeGenerator:
             readme.extend(new_table)
 
         if self.add_badge:
-            readme.append("\n[![automated-profile-updater](https://github.com/{}/{}/actions/workflows/update.yml/badge.svg)](https://github.com/{}/{}/actions/workflows/update.yml)\n".format(self.username,self.username,self.username,self.username))
+            readme.append("\n\n[![automated-profile-updater](https://github.com/{}/{}/actions/workflows/update.yml/badge.svg)](https://github.com/{}/{}/actions/workflows/update.yml)\n".format(self.username,self.username,self.username,self.username))
 
         if self.add_timestamp:
             readme.append("\n\n\n")
@@ -152,5 +152,5 @@ rg = ReadmeGenerator(username="salihmarangoz",
                      add_badge=True,
                      desktop_url="https://github.com/salihmarangoz",
                      mobile_url="https://salihmarangoz.github.io/salihmarangoz/README_mobile")
-rg.build_desktop(use_repocards=True)
+rg.build_desktop(use_repocards=False)
 rg.build_mobile(use_repocards=True)
