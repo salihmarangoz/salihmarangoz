@@ -24,9 +24,9 @@ class ReadmeGenerator:
         return api
 
 
-    def build_desktop(self, template_path="TEMPLATE.md", output_path_mobile="README_mobile.md", output_path_desktop="README.md"):
+    def build_desktop(self, template_path="TEMPLATE.md", output_path_mobile="README_mobile.md", output_path_desktop="README.md", use_repocards=False):
 
-        def generate_repositories_table(repos, category="favorites", exclude_repos_path="exclude_repos.list"):
+        def generate_repositories_table(repos, category="favorites", exclude_repos_path="exclude_repos.list", use_repocards=False):
             readme = []
             readme.append("| Stars | Forks | Repository | Description |\n")
             readme.append("| ----- | ----- | ---------- | ----------- |\n")
@@ -38,7 +38,10 @@ class ReadmeGenerator:
             for o in repos:
                 if not o["fork"] and o["name"] not in exclude_repos:
                     if category is None or category in o["topics"]:
-                        readme.append("| {} | {} | [{}]({}) | {} |\n".format(o["stargazers_count"], o["forks_count"], o["name"], o["html_url"], o["description"]))
+                        if use_repocards:
+                            readme.append("[![](https://github-readme-stats.vercel.app/api/pin/?username={}&repo={})]({})".format(self.username, o["name"], o["html_url"]))
+                        else:
+                            readme.append("| {} | {} | [{}]({}) | {} |\n".format(o["stargazers_count"], o["forks_count"], o["name"], o["html_url"], o["description"]))
                         to_be_deleted.append(o)
 
             filtered_repos = [x for x in repos if (x not in to_be_deleted)]
@@ -148,5 +151,5 @@ rg = ReadmeGenerator(username="salihmarangoz",
                      add_badge=True,
                      desktop_url="https://github.com/salihmarangoz",
                      mobile_url="https://salihmarangoz.github.io/salihmarangoz/README_mobile")
-rg.build_desktop()
+rg.build_desktop(use_repocards=True)
 rg.build_mobile(use_repocards=True)
