@@ -1,8 +1,15 @@
 plugins:
   - jekyll-relative-links
+  - jekyll-social-icons
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    css_class: 'highlight'
 relative_links:
   enabled: true
   collections: true
 include:
   - README.md
   - README_mobile.md
+
