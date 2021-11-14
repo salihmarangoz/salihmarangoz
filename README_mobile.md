@@ -3,7 +3,7 @@
 Welcome! I am Salih from Turkey :tr:. You can find my personal website at [salihmarangoz.github.io](https://salihmarangoz.github.io) and my YouTube channel [here](https://www.youtube.com/channel/UCu8rMm9uYrH-wwY1gI--fSQ). On this page; you can find my projects, notebooks, scripts, and tools. Also, I have categorized and summarized my projects as seen below for you. Recent and active projects are located on the upper rows. I wish you a good day!
 
 
-[**>>> Click here for desktop version of this page! <<<**](README.md)
+[**>>> Click here for desktop version! <<<**](README.md)
 
 ## My Current Favorites
 Note: Projects in this section may reappear in other categories.
@@ -39,4 +39,4 @@ Note: Projects in this section may reappear in other categories.
 
 
 
-Last updated: Sun Nov 14 13:01:29 2021
+Last updated: Sun Nov 14 13:10:48 2021
