@@ -82,9 +82,9 @@ class ReadmeGenerator:
         f.writelines(readme)
         f.close()
 
-    def build_mobile(self, template_path="TEMPLATE.md", output_path_mobile="README_mobile.md", output_path_desktop="README.md"):
+    def build_mobile(self, template_path="TEMPLATE.md", output_path_mobile="README_mobile.md", output_path_desktop="README.md", use_repocards=False):
 
-        def generate_repositories_table(repos, category="favorites", exclude_repos_path="exclude_repos.list"):
+        def generate_repositories_table(repos, category="favorites", exclude_repos_path="exclude_repos.list", use_repocards=False):
             readme = []
 
             f = open(exclude_repos_path)
@@ -94,7 +94,10 @@ class ReadmeGenerator:
             for o in repos:
                 if not o["fork"] and o["name"] not in exclude_repos:
                     if category is None or category in o["topics"]:
-                        readme.append("- [**{}**]({}) ({}:star:): {} \n".format(o["name"], o["html_url"], o["stargazers_count"], o["description"]))
+                        if use_repocards:
+                            readme.append("[![](https://github-readme-stats.vercel.app/api/pin/?username={}&repo={})]({})".format(self.username, o["name"], o["html_url"]))
+                        else:
+                            readme.append("- [**{}**]({}) ({}:star:): {} \n".format(o["name"], o["html_url"], o["stargazers_count"], o["description"]))
                         to_be_deleted.append(o)
 
             filtered_repos = [x for x in repos if (x not in to_be_deleted)]
@@ -120,9 +123,9 @@ class ReadmeGenerator:
             readme.append("\n## {}\n\n".format(c))
             if t == "gh-favorites":
                 readme.append("Note: Projects in this section may reappear in other categories.\n\n")
-                new_table, _ = generate_repositories_table(repos=repos, category=t)
+                new_table, _ = generate_repositories_table(repos=repos, category=t, use_repocards=use_repocards)
             else:
-                new_table, repos = generate_repositories_table(repos=repos, category=t)
+                new_table, repos = generate_repositories_table(repos=repos, category=t, use_repocards=use_repocards)
             readme.extend(new_table)
 
         if self.add_badge:
@@ -146,4 +149,4 @@ rg = ReadmeGenerator(username="salihmarangoz",
                      desktop_url="https://github.com/salihmarangoz",
                      mobile_url="https://salihmarangoz.github.io/salihmarangoz/README_mobile")
 rg.build_desktop()
-rg.build_mobile()
+rg.build_mobile(use_repocards=True)
