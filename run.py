@@ -59,7 +59,7 @@ class ReadmeGenerator:
             repos = sorted(repos, key=lambda d: d['stargazers_count'], reverse=True) 
 
         for c, t in categories.items():
-            readme.append("## {}\n\n".format(c))
+            readme.append("\n## {}\n\n".format(c))
             if t == "gh-favorites":
                 readme.append("Note: Projects in this section may reappear in other categories.\n")
                 new_table, _ = generate_repositories_table(repos=repos, category=t)
@@ -115,7 +115,7 @@ class ReadmeGenerator:
             repos = sorted(repos, key=lambda d: d['stargazers_count'], reverse=True) 
 
         for c, t in categories.items():
-            readme.append("## {}\n".format(c))
+            readme.append("\n## {}\n\n".format(c))
             if t == "gh-favorites":
                 readme.append("Note: Projects in this section may reappear in other categories.\n")
                 new_table, _ = generate_repositories_table(repos=repos, category=t)

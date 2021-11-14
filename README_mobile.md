@@ -5,12 +5,16 @@ Welcome! I am Salih from Turkey :tr:. You can find my personal website at [salih
 
 [**>>> Click here for desktop version! <<<**](README.md)
 
+
 ## My Current Favorites
+
 Note: Projects in this section may reappear in other categories.
 - [**system_tray_extensions**](https://github.com/salihmarangoz/system_tray_extensions) (8:star:): The successor of ite8291r3-gui project: System tray toolbox for Linux laptops 
 - [**UbuntuTweaks**](https://github.com/salihmarangoz/UbuntuTweaks) (16:star:): Ubuntu tweaks for speeding up the PC, fixing problems and installing nice utilities/tools 
 - [**notebooks**](https://github.com/salihmarangoz/notebooks) (0:star:): My Jupyter Notebooks / Notes 
+
 ## Robotics
+
 - [**extract_line_segments**](https://github.com/salihmarangoz/extract_line_segments) (1:star:): Line segment extraction using Douglas-Peucker algorithm. Works with ROS1. 
 - [**robot_laser_simulator**](https://github.com/salihmarangoz/robot_laser_simulator) (0:star:): Robot 2D laser simulator for generating datasets. Works with ROS1. 
 - [**robot_laser_grid_mapping**](https://github.com/salihmarangoz/robot_laser_grid_mapping) (5:star:): Log odds mapping where the robot pose is known. Works with ROS1. 
@@ -19,12 +23,16 @@ Note: Projects in this section may reappear in other categories.
 - [**deep_navigation**](https://github.com/salihmarangoz/deep_navigation) (3:star:): Deep Learning based wall/corridor following P3AT robot (ROS, Tensorflow 2.0) 
 - [**vl53l1x_scanner**](https://github.com/salihmarangoz/vl53l1x_scanner) (7:star:): DIY 2D/3D Laser Scanner and Depth Camera with ROS Driver (VL53L1X ToF Ranging Sensor + 28BYJ-48 Stepper Motor + Arduino) 
 - [**RobotMappingCourse**](https://github.com/salihmarangoz/RobotMappingCourse) (23:star:): Solutions to assignments of Robot Mapping Course WS 2013/14 
+
 ## Deep Learning / Machine Learning
+
 - [**turkish_tea_optimization**](https://github.com/salihmarangoz/turkish_tea_optimization) (0:star:): My journey to find the best way for brewing tea. 
 - [**notebooks**](https://github.com/salihmarangoz/notebooks) (0:star:): My Jupyter Notebooks / Notes 
 - [**PathPlanningGeneticAlgorithm**](https://github.com/salihmarangoz/PathPlanningGeneticAlgorithm) (2:star:): Path planning with genetic algorithm on 2D grid 
 - [**ImageGenerationGeneticAlgorithm**](https://github.com/salihmarangoz/ImageGenerationGeneticAlgorithm) (0:star:): Image generation using shapes with genetic algorithm 
+
 ## Miscellaneous
+
 - [**salihmarangoz**](https://github.com/salihmarangoz/salihmarangoz) (0:star:): My GitHub profile repository. README.md file is automatically generated according to my profile. 
 - [**system_tray_extensions**](https://github.com/salihmarangoz/system_tray_extensions) (8:star:): The successor of ite8291r3-gui project: System tray toolbox for Linux laptops 
 - [**UbuntuTweaks**](https://github.com/salihmarangoz/UbuntuTweaks) (16:star:): Ubuntu tweaks for speeding up the PC, fixing problems and installing nice utilities/tools 
@@ -39,4 +47,4 @@ Note: Projects in this section may reappear in other categories.
 
 
 
-Last updated: Sun Nov 14 13:23:27 2021
+Last updated: Sun Nov 14 14:38:36 2021

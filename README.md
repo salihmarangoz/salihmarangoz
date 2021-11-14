@@ -5,6 +5,7 @@ Welcome! I am Salih from Turkey :tr:. You can find my personal website at [salih
 
 [**>>> Click here for mobile version! <<<**](README_mobile.md)
 
+
 ## My Current Favorites
 
 Note: Projects in this section may reappear in other categories.
@@ -13,6 +14,7 @@ Note: Projects in this section may reappear in other categories.
 | 8 | 3 | [system_tray_extensions](https://github.com/salihmarangoz/system_tray_extensions) | The successor of ite8291r3-gui project: System tray toolbox for Linux laptops |
 | 16 | 3 | [UbuntuTweaks](https://github.com/salihmarangoz/UbuntuTweaks) | Ubuntu tweaks for speeding up the PC, fixing problems and installing nice utilities/tools |
 | 0 | 0 | [notebooks](https://github.com/salihmarangoz/notebooks) | My Jupyter Notebooks / Notes |
+
 ## Robotics
 
 | Stars | Forks | Repository | Description |
@@ -25,6 +27,7 @@ Note: Projects in this section may reappear in other categories.
 | 3 | 1 | [deep_navigation](https://github.com/salihmarangoz/deep_navigation) | Deep Learning based wall/corridor following P3AT robot (ROS, Tensorflow 2.0) |
 | 7 | 2 | [vl53l1x_scanner](https://github.com/salihmarangoz/vl53l1x_scanner) | DIY 2D/3D Laser Scanner and Depth Camera with ROS Driver (VL53L1X ToF Ranging Sensor + 28BYJ-48 Stepper Motor + Arduino) |
 | 23 | 3 | [RobotMappingCourse](https://github.com/salihmarangoz/RobotMappingCourse) | Solutions to assignments of Robot Mapping Course WS 2013/14 |
+
 ## Deep Learning / Machine Learning
 
 | Stars | Forks | Repository | Description |
@@ -33,6 +36,7 @@ Note: Projects in this section may reappear in other categories.
 | 0 | 0 | [notebooks](https://github.com/salihmarangoz/notebooks) | My Jupyter Notebooks / Notes |
 | 2 | 0 | [PathPlanningGeneticAlgorithm](https://github.com/salihmarangoz/PathPlanningGeneticAlgorithm) | Path planning with genetic algorithm on 2D grid |
 | 0 | 0 | [ImageGenerationGeneticAlgorithm](https://github.com/salihmarangoz/ImageGenerationGeneticAlgorithm) | Image generation using shapes with genetic algorithm |
+
 ## Miscellaneous
 
 | Stars | Forks | Repository | Description |
@@ -51,4 +55,4 @@ Note: Projects in this section may reappear in other categories.
 
 
 
-Last updated: Sun Nov 14 13:23:27 2021
+Last updated: Sun Nov 14 14:38:36 2021
