@@ -25,8 +25,8 @@ Note: Projects in this section may reappear in other categories.
 - [**PathPlanningGeneticAlgorithm**](https://github.com/salihmarangoz/PathPlanningGeneticAlgorithm) (2:star:): Path planning with genetic algorithm on 2D grid 
 - [**ImageGenerationGeneticAlgorithm**](https://github.com/salihmarangoz/ImageGenerationGeneticAlgorithm) (0:star:): Image generation using shapes with genetic algorithm 
 ## Miscellaneous
-- [**system_tray_extensions**](https://github.com/salihmarangoz/system_tray_extensions) (8:star:): The successor of ite8291r3-gui project: System tray toolbox for Linux laptops 
 - [**salihmarangoz**](https://github.com/salihmarangoz/salihmarangoz) (0:star:): My GitHub profile repository. README.md file is automatically generated according to my profile. 
+- [**system_tray_extensions**](https://github.com/salihmarangoz/system_tray_extensions) (8:star:): The successor of ite8291r3-gui project: System tray toolbox for Linux laptops 
 - [**UbuntuTweaks**](https://github.com/salihmarangoz/UbuntuTweaks) (16:star:): Ubuntu tweaks for speeding up the PC, fixing problems and installing nice utilities/tools 
 - [**prevent_touchpad_toggle**](https://github.com/salihmarangoz/prevent_touchpad_toggle) (0:star:): Scripts for disabling touchpad toggle button to improve typing experience. 
 - [**github_ci_nbconvert**](https://github.com/salihmarangoz/github_ci_nbconvert) (6:star:): Convert notebook (*.ipynb) files using Github Actions automatically after each commit and access HTML outputs with a public URL using Github Pages 
@@ -39,4 +39,4 @@ Note: Projects in this section may reappear in other categories.
 
 
 
-Last updated: Sun Nov 14 13:18:50 2021
+Last updated: Sun Nov 14 12:20:22 2021
