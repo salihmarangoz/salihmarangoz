@@ -9,6 +9,7 @@ Welcome! I am Salih from Turkey :tr:. You can find my personal website at [salih
 ## My Current Favorites
 
 Note: Projects in this section may reappear in other categories.
+
 - [**system_tray_extensions**](https://github.com/salihmarangoz/system_tray_extensions) (8:star:): The successor of ite8291r3-gui project: System tray toolbox for Linux laptops 
 - [**UbuntuTweaks**](https://github.com/salihmarangoz/UbuntuTweaks) (16:star:): Ubuntu tweaks for speeding up the PC, fixing problems and installing nice utilities/tools 
 - [**notebooks**](https://github.com/salihmarangoz/notebooks) (0:star:): My Jupyter Notebooks / Notes 
@@ -47,4 +48,4 @@ Note: Projects in this section may reappear in other categories.
 
 
 
-Last updated: Sun Nov 14 13:39:23 2021
+Last updated: Sun Nov 14 13:48:36 2021
