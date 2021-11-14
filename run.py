@@ -66,6 +66,7 @@ class ReadmeGenerator:
             else:
                 new_table, repos = generate_repositories_table(repos=repos, category=t)
             readme.extend(new_table)
+        print("\n")
 
         if self.add_badge:
             readme.append("\n[![automated-profile-updater](https://github.com/{}/{}/actions/workflows/update.yml/badge.svg)](https://github.com/{}/{}/actions/workflows/update.yml)\n".format(self.username,self.username,self.username,self.username))
