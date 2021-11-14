@@ -28,8 +28,9 @@ class ReadmeGenerator:
 
         def generate_repositories_table(repos, category="favorites", exclude_repos_path="exclude_repos.list", use_repocards=False):
             readme = []
-            readme.append("| Stars | Forks | Repository | Description |\n")
-            readme.append("| ----- | ----- | ---------- | ----------- |\n")
+            if not use_repocards:
+                readme.append("| Stars | Forks | Repository | Description |\n")
+                readme.append("| ----- | ----- | ---------- | ----------- |\n")
 
             f = open(exclude_repos_path)
             exclude_repos = f.readlines()
