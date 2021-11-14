@@ -61,7 +61,7 @@ class ReadmeGenerator:
         for c, t in categories.items():
             readme.append("\n## {}\n\n".format(c))
             if t == "gh-favorites":
-                readme.append("Note: Projects in this section may reappear in other categories.\n")
+                readme.append("Note: Projects in this section may reappear in other categories.\n\n")
                 new_table, _ = generate_repositories_table(repos=repos, category=t)
             else:
                 new_table, repos = generate_repositories_table(repos=repos, category=t)
@@ -117,7 +117,7 @@ class ReadmeGenerator:
         for c, t in categories.items():
             readme.append("\n## {}\n\n".format(c))
             if t == "gh-favorites":
-                readme.append("Note: Projects in this section may reappear in other categories.\n")
+                readme.append("Note: Projects in this section may reappear in other categories.\n\n")
                 new_table, _ = generate_repositories_table(repos=repos, category=t)
             else:
                 new_table, repos = generate_repositories_table(repos=repos, category=t)
