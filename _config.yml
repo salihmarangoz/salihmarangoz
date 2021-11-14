@@ -1,6 +1,5 @@
 plugins:
   - jekyll-relative-links
-  - jekyll-social-icons
 kramdown:
   input: GFM
   syntax_highlighter: rouge
@@ -12,4 +11,6 @@ relative_links:
 include:
   - README.md
   - README_mobile.md
-
+exclude:
+  - Gemfile
+  - Gemfile.lock
