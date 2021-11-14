@@ -1,6 +1,7 @@
 plugins:
   - jekyll-relative-links
   - jemoji
+  - kramdown
 kramdown:
   input: GFM
   syntax_highlighter: rouge
