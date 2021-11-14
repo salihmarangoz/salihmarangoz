@@ -45,7 +45,7 @@ class ReadmeGenerator:
         f = open(template_path)
         readme = f.readlines()
 
-        readme.append("[**>>> Click here for mobile version of this page! <<<**]({})\n".format(output_path_mobile))
+        readme.append("[**>>> Click here for mobile version! <<<**]({})\n".format(output_path_mobile))
         readme.append("\n")
 
         categories = {"My Current Favorites": "gh-favorites",
@@ -100,7 +100,7 @@ class ReadmeGenerator:
         f = open(template_path)
         readme = f.readlines()
 
-        readme.append("[**>>> Click here for desktop version of this page! <<<**]({})\n".format(output_path_desktop))
+        readme.append("[**>>> Click here for desktop version! <<<**]({})\n".format(output_path_desktop))
         readme.append("\n")
 
         categories = {"My Current Favorites": "gh-favorites",
