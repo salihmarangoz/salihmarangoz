@@ -6,12 +6,14 @@ from datetime import datetime
 
 
 class ReadmeGenerator:
-    def __init__(self, username, sort_list_with_stargazers=False, add_timestamp=False, add_badge=False):
+    def __init__(self, username, sort_list_with_stargazers=False, add_timestamp=False, add_badge=False, mobile_url="", desktop_url=""):
         self.api = self.get_github_api()
         self.username = username
         self.sort_list_with_stargazers = sort_list_with_stargazers
         self.add_timestamp = add_timestamp
         self.add_badge = add_badge
+        self.mobile_url = mobile_url
+        self.desktop_url = desktop_url
 
 
     def get_github_api(self):
@@ -45,7 +47,7 @@ class ReadmeGenerator:
         f = open(template_path)
         readme = f.readlines()
 
-        readme.append("[**>>> Click here for mobile version! <<<**]({})\n".format(output_path_mobile))
+        readme.append("[**>>> Click here for mobile version! <<<**]({})\n".format(self.mobile_url))
         readme.append("\n")
 
         categories = {"My Current Favorites": "gh-favorites",
@@ -101,7 +103,7 @@ class ReadmeGenerator:
         f = open(template_path)
         readme = f.readlines()
 
-        readme.append("[**>>> Click here for desktop version! <<<**]({})\n".format(output_path_desktop))
+        readme.append("[**>>> Click here for desktop version! <<<**]({})\n".format(self.desktop_url))
         readme.append("\n")
 
         categories = {"My Current Favorites": "gh-favorites",
@@ -137,6 +139,11 @@ class ReadmeGenerator:
 
 
 # Parameters:
-rg = ReadmeGenerator(username="salihmarangoz", sort_list_with_stargazers=False, add_timestamp=True, add_badge=True)
+rg = ReadmeGenerator(username="salihmarangoz", 
+                     sort_list_with_stargazers=False, 
+                     add_timestamp=True, 
+                     add_badge=True,
+                     desktop_url="https://github.com/salihmarangoz/salihmarangoz",
+                     mobile_url="https://salihmarangoz.github.io/salihmarangoz/README_mobile")
 rg.build_desktop()
 rg.build_mobile()
