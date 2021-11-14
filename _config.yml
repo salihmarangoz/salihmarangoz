@@ -1,5 +1,6 @@
 name: Salih Marangoz Profile Page
 title: null
+theme: minima
 plugins:
   - jekyll-relative-links
   - jemoji

@@ -143,7 +143,7 @@ rg = ReadmeGenerator(username="salihmarangoz",
                      sort_list_with_stargazers=False, 
                      add_timestamp=True, 
                      add_badge=True,
-                     desktop_url="https://github.com/salihmarangoz/salihmarangoz",
+                     desktop_url="https://github.com/salihmarangoz",
                      mobile_url="https://salihmarangoz.github.io/salihmarangoz/README_mobile")
 rg.build_desktop()
 rg.build_mobile()
