@@ -9,6 +9,7 @@ Welcome! I am Salih from Turkey :tr:. You can find my personal website at [salih
 ## My Current Favorites
 
 Note: Projects in this section may reappear in other categories.
+
 | Stars | Forks | Repository | Description |
 | ----- | ----- | ---------- | ----------- |
 | 8 | 3 | [system_tray_extensions](https://github.com/salihmarangoz/system_tray_extensions) | The successor of ite8291r3-gui project: System tray toolbox for Linux laptops |
@@ -55,4 +56,4 @@ Note: Projects in this section may reappear in other categories.
 
 
 
-Last updated: Sun Nov 14 13:39:23 2021
+Last updated: Sun Nov 14 13:48:36 2021
