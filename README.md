@@ -6,6 +6,7 @@ Welcome! I am Salih from Turkey :tr:. You can find my personal website at [salih
 [**>>> Click here for mobile version! <<<**](README_mobile.md)
 
 ## My Current Favorites
+
 Note: Projects in this section may reappear in other categories.
 | Stars | Forks | Repository | Description |
 | ----- | ----- | ---------- | ----------- |
@@ -13,6 +14,7 @@ Note: Projects in this section may reappear in other categories.
 | 16 | 3 | [UbuntuTweaks](https://github.com/salihmarangoz/UbuntuTweaks) | Ubuntu tweaks for speeding up the PC, fixing problems and installing nice utilities/tools |
 | 0 | 0 | [notebooks](https://github.com/salihmarangoz/notebooks) | My Jupyter Notebooks / Notes |
 ## Robotics
+
 | Stars | Forks | Repository | Description |
 | ----- | ----- | ---------- | ----------- |
 | 1 | 0 | [extract_line_segments](https://github.com/salihmarangoz/extract_line_segments) | Line segment extraction using Douglas-Peucker algorithm. Works with ROS1. |
@@ -24,6 +26,7 @@ Note: Projects in this section may reappear in other categories.
 | 7 | 2 | [vl53l1x_scanner](https://github.com/salihmarangoz/vl53l1x_scanner) | DIY 2D/3D Laser Scanner and Depth Camera with ROS Driver (VL53L1X ToF Ranging Sensor + 28BYJ-48 Stepper Motor + Arduino) |
 | 23 | 3 | [RobotMappingCourse](https://github.com/salihmarangoz/RobotMappingCourse) | Solutions to assignments of Robot Mapping Course WS 2013/14 |
 ## Deep Learning / Machine Learning
+
 | Stars | Forks | Repository | Description |
 | ----- | ----- | ---------- | ----------- |
 | 0 | 0 | [turkish_tea_optimization](https://github.com/salihmarangoz/turkish_tea_optimization) | My journey to find the best way for brewing tea. |
@@ -31,6 +34,7 @@ Note: Projects in this section may reappear in other categories.
 | 2 | 0 | [PathPlanningGeneticAlgorithm](https://github.com/salihmarangoz/PathPlanningGeneticAlgorithm) | Path planning with genetic algorithm on 2D grid |
 | 0 | 0 | [ImageGenerationGeneticAlgorithm](https://github.com/salihmarangoz/ImageGenerationGeneticAlgorithm) | Image generation using shapes with genetic algorithm |
 ## Miscellaneous
+
 | Stars | Forks | Repository | Description |
 | ----- | ----- | ---------- | ----------- |
 | 0 | 0 | [salihmarangoz](https://github.com/salihmarangoz/salihmarangoz) | My GitHub profile repository. README.md file is automatically generated according to my profile. |
@@ -47,4 +51,4 @@ Note: Projects in this section may reappear in other categories.
 
 
 
-Last updated: Sun Nov 14 13:10:48 2021
+Last updated: Sun Nov 14 13:18:02 2021
