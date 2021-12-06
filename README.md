@@ -13,7 +13,7 @@ Note: Projects in this section may reappear in other categories.
 | Stars | Forks | Repository | Description |
 | ----- | ----- | ---------- | ----------- |
 | 14 | 3 | [system_tray_extensions](https://github.com/salihmarangoz/system_tray_extensions) | The successor of ite8291r3-gui project: System tray toolbox for Linux laptops |
-| 17 | 3 | [UbuntuTweaks](https://github.com/salihmarangoz/UbuntuTweaks) | Ubuntu tweaks for speeding up the PC, fixing problems and installing nice utilities/tools |
+| 18 | 3 | [UbuntuTweaks](https://github.com/salihmarangoz/UbuntuTweaks) | Ubuntu tweaks for speeding up the PC, fixing problems and installing nice utilities/tools |
 
 ## Robotics
 
@@ -39,10 +39,9 @@ Note: Projects in this section may reappear in other categories.
 | Stars | Forks | Repository | Description |
 | ----- | ----- | ---------- | ----------- |
 | 14 | 3 | [system_tray_extensions](https://github.com/salihmarangoz/system_tray_extensions) | The successor of ite8291r3-gui project: System tray toolbox for Linux laptops |
-| 0 | 0 | [snap_test](https://github.com/salihmarangoz/snap_test) | None |
-| 0 | 0 | [AnswerOfTheUltimateQuestion](https://github.com/salihmarangoz/AnswerOfTheUltimateQuestion) | None |
 | 0 | 0 | [salihmarangoz](https://github.com/salihmarangoz/salihmarangoz) | My GitHub profile repository. README.md file is automatically generated according to my profile. |
-| 17 | 3 | [UbuntuTweaks](https://github.com/salihmarangoz/UbuntuTweaks) | Ubuntu tweaks for speeding up the PC, fixing problems and installing nice utilities/tools |
+| 0 | 0 | [AnswerOfTheUltimateQuestion](https://github.com/salihmarangoz/AnswerOfTheUltimateQuestion) | Took a lot of time to compute |
+| 18 | 3 | [UbuntuTweaks](https://github.com/salihmarangoz/UbuntuTweaks) | Ubuntu tweaks for speeding up the PC, fixing problems and installing nice utilities/tools |
 | 0 | 0 | [prevent_touchpad_toggle](https://github.com/salihmarangoz/prevent_touchpad_toggle) | Scripts for disabling touchpad toggle button to improve typing experience. |
 | 6 | 2 | [github_ci_nbconvert](https://github.com/salihmarangoz/github_ci_nbconvert) | Convert notebook (*.ipynb) files using Github Actions automatically after each commit and access HTML outputs with a public URL using Github Pages |
 | 0 | 0 | [cpm_script](https://github.com/salihmarangoz/cpm_script) | A simple cmake package manager script |
@@ -55,4 +54,4 @@ Note: Projects in this section may reappear in other categories.
 
 
 
-Last updated: Mon Nov 29 06:16:41 2021
+Last updated: Mon Dec  6 06:17:06 2021
