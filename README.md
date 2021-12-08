@@ -12,7 +12,7 @@ Note: Projects in this section may reappear in other categories.
 
 | Stars | Forks | Repository | Description |
 | ----- | ----- | ---------- | ----------- |
-| 14 | 3 | [system_tray_extensions](https://github.com/salihmarangoz/system_tray_extensions) | The successor of ite8291r3-gui project: System tray toolbox for Linux laptops |
+| 15 | 4 | [system_tray_extensions](https://github.com/salihmarangoz/system_tray_extensions) | The successor of ite8291r3-gui project: System tray toolbox for Linux laptops |
 | 18 | 3 | [UbuntuTweaks](https://github.com/salihmarangoz/UbuntuTweaks) | Ubuntu tweaks for speeding up the PC, fixing problems and installing nice utilities/tools |
 
 ## Robotics
@@ -38,8 +38,9 @@ Note: Projects in this section may reappear in other categories.
 
 | Stars | Forks | Repository | Description |
 | ----- | ----- | ---------- | ----------- |
-| 14 | 3 | [system_tray_extensions](https://github.com/salihmarangoz/system_tray_extensions) | The successor of ite8291r3-gui project: System tray toolbox for Linux laptops |
 | 0 | 0 | [salihmarangoz](https://github.com/salihmarangoz/salihmarangoz) | My GitHub profile repository. README.md file is automatically generated according to my profile. |
+| 0 | 0 | [oscilloscope_visualizer](https://github.com/salihmarangoz/oscilloscope_visualizer) | Having fun with oscilloscope music content on the Internet. Why not make myself an audio stream too? |
+| 15 | 4 | [system_tray_extensions](https://github.com/salihmarangoz/system_tray_extensions) | The successor of ite8291r3-gui project: System tray toolbox for Linux laptops |
 | 0 | 0 | [AnswerOfTheUltimateQuestion](https://github.com/salihmarangoz/AnswerOfTheUltimateQuestion) | Took a lot of time to compute |
 | 18 | 3 | [UbuntuTweaks](https://github.com/salihmarangoz/UbuntuTweaks) | Ubuntu tweaks for speeding up the PC, fixing problems and installing nice utilities/tools |
 | 0 | 0 | [prevent_touchpad_toggle](https://github.com/salihmarangoz/prevent_touchpad_toggle) | Scripts for disabling touchpad toggle button to improve typing experience. |
@@ -54,4 +55,4 @@ Note: Projects in this section may reappear in other categories.
 
 
 
-Last updated: Mon Dec  6 06:17:06 2021
+Last updated: Wed Dec  8 16:21:59 2021
