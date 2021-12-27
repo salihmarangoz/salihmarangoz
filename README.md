@@ -25,7 +25,7 @@ Note: Projects in this section may reappear in other categories.
 | 0 | 0 | [robot_landmark_simulator](https://github.com/salihmarangoz/robot_landmark_simulator) | Robot landmark simulator generating CARMEN style logfile |
 | 1 | 0 | [image2gazebo](https://github.com/salihmarangoz/image2gazebo) | Generates SDF model for Gazebo Simulator using a PNG bitmap file |
 | 3 | 1 | [deep_navigation](https://github.com/salihmarangoz/deep_navigation) | Deep Learning based wall/corridor following P3AT robot (ROS, Tensorflow 2.0) |
-| 7 | 2 | [vl53l1x_scanner](https://github.com/salihmarangoz/vl53l1x_scanner) | DIY 2D/3D Laser Scanner and Depth Camera with ROS Driver (VL53L1X ToF Ranging Sensor + 28BYJ-48 Stepper Motor + Arduino) |
+| 7 | 3 | [vl53l1x_scanner](https://github.com/salihmarangoz/vl53l1x_scanner) | DIY 2D/3D Laser Scanner and Depth Camera with ROS Driver (VL53L1X ToF Ranging Sensor + 28BYJ-48 Stepper Motor + Arduino) |
 | 23 | 3 | [RobotMappingCourse](https://github.com/salihmarangoz/RobotMappingCourse) | Solutions to assignments of Robot Mapping Course WS 2013/14 |
 
 ## Deep Learning / Machine Learning
@@ -55,4 +55,4 @@ Note: Projects in this section may reappear in other categories.
 
 
 
-Last updated: Mon Dec 20 06:17:35 2021
+Last updated: Mon Dec 27 06:18:04 2021
