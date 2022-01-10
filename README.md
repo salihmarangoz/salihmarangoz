@@ -12,7 +12,7 @@ Note: Projects in this section may reappear in other categories.
 
 | Stars | Forks | Repository | Description |
 | ----- | ----- | ---------- | ----------- |
-| 18 | 4 | [system_tray_extensions](https://github.com/salihmarangoz/system_tray_extensions) | The successor of ite8291r3-gui project: System tray toolbox for Linux laptops |
+| 19 | 4 | [system_tray_extensions](https://github.com/salihmarangoz/system_tray_extensions) | The successor of ite8291r3-gui project: System tray toolbox for Linux laptops |
 | 20 | 3 | [UbuntuTweaks](https://github.com/salihmarangoz/UbuntuTweaks) | Ubuntu tweaks for speeding up the PC, fixing problems and installing nice utilities/tools |
 
 ## Robotics
@@ -38,13 +38,13 @@ Note: Projects in this section may reappear in other categories.
 
 | Stars | Forks | Repository | Description |
 | ----- | ----- | ---------- | ----------- |
-| 18 | 4 | [system_tray_extensions](https://github.com/salihmarangoz/system_tray_extensions) | The successor of ite8291r3-gui project: System tray toolbox for Linux laptops |
 | 0 | 0 | [salihmarangoz](https://github.com/salihmarangoz/salihmarangoz) | My GitHub profile repository. README.md file is automatically generated according to my profile. |
+| 19 | 4 | [system_tray_extensions](https://github.com/salihmarangoz/system_tray_extensions) | The successor of ite8291r3-gui project: System tray toolbox for Linux laptops |
 | 0 | 0 | [oscilloscope_visualizer](https://github.com/salihmarangoz/oscilloscope_visualizer) | Having fun with oscilloscope music content on the Internet. Why not make myself an audio stream too? |
 | 0 | 0 | [AnswerOfTheUltimateQuestion](https://github.com/salihmarangoz/AnswerOfTheUltimateQuestion) | Took a lot of time to compute |
 | 20 | 3 | [UbuntuTweaks](https://github.com/salihmarangoz/UbuntuTweaks) | Ubuntu tweaks for speeding up the PC, fixing problems and installing nice utilities/tools |
 | 0 | 0 | [prevent_touchpad_toggle](https://github.com/salihmarangoz/prevent_touchpad_toggle) | Scripts for disabling touchpad toggle button to improve typing experience. |
-| 5 | 2 | [github_ci_nbconvert](https://github.com/salihmarangoz/github_ci_nbconvert) | Convert notebook (*.ipynb) files using Github Actions automatically after each commit and access HTML outputs with a public URL using Github Pages |
+| 5 | 3 | [github_ci_nbconvert](https://github.com/salihmarangoz/github_ci_nbconvert) | Convert notebook (*.ipynb) files using Github Actions automatically after each commit and access HTML outputs with a public URL using Github Pages |
 | 0 | 0 | [cpm_script](https://github.com/salihmarangoz/cpm_script) | A simple cmake package manager script |
 | 0 | 0 | [GithubBackup](https://github.com/salihmarangoz/GithubBackup) | Github backup script for private, forked and starred repositories |
 | 5 | 0 | [DrawOnConsole](https://github.com/salihmarangoz/DrawOnConsole) | 2D/3D animations on Windows console |
@@ -55,4 +55,4 @@ Note: Projects in this section may reappear in other categories.
 
 
 
-Last updated: Mon Jan  3 06:17:59 2022
+Last updated: Mon Jan 10 06:18:09 2022
