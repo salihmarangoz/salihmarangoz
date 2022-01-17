@@ -38,8 +38,8 @@ Note: Projects in this section may reappear in other categories.
 
 | Stars | Forks | Repository | Description |
 | ----- | ----- | ---------- | ----------- |
-| 0 | 0 | [salihmarangoz](https://github.com/salihmarangoz/salihmarangoz) | My GitHub profile repository. README.md file is automatically generated according to my profile. |
 | 19 | 4 | [system_tray_extensions](https://github.com/salihmarangoz/system_tray_extensions) | The successor of ite8291r3-gui project: System tray toolbox for Linux laptops |
+| 0 | 0 | [salihmarangoz](https://github.com/salihmarangoz/salihmarangoz) | My GitHub profile repository. README.md file is automatically generated according to my profile. |
 | 0 | 0 | [oscilloscope_visualizer](https://github.com/salihmarangoz/oscilloscope_visualizer) | Having fun with oscilloscope music content on the Internet. Why not make myself an audio stream too? |
 | 0 | 0 | [AnswerOfTheUltimateQuestion](https://github.com/salihmarangoz/AnswerOfTheUltimateQuestion) | Took a lot of time to compute |
 | 20 | 3 | [UbuntuTweaks](https://github.com/salihmarangoz/UbuntuTweaks) | Ubuntu tweaks for speeding up the PC, fixing problems and installing nice utilities/tools |
@@ -55,4 +55,4 @@ Note: Projects in this section may reappear in other categories.
 
 
 
-Last updated: Mon Jan 10 06:18:09 2022
+Last updated: Mon Jan 17 06:18:14 2022
