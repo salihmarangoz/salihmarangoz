@@ -12,6 +12,7 @@ Note: Projects in this section may reappear in other categories.
 
 | Stars | Forks | Repository | Description |
 | ----- | ----- | ---------- | ----------- |
+| 0 | 0 | [StereoDepthEstimation](https://github.com/salihmarangoz/StereoDepthEstimation) | Stereo depth estimation with PSM-Net and GC-Net deep learning models |
 | 19 | 4 | [system_tray_extensions](https://github.com/salihmarangoz/system_tray_extensions) | The successor of ite8291r3-gui project: System tray toolbox for Linux laptops |
 | 21 | 3 | [UbuntuTweaks](https://github.com/salihmarangoz/UbuntuTweaks) | Ubuntu tweaks for speeding up the PC, fixing problems and installing nice utilities/tools |
 
@@ -32,6 +33,7 @@ Note: Projects in this section may reappear in other categories.
 
 | Stars | Forks | Repository | Description |
 | ----- | ----- | ---------- | ----------- |
+| 0 | 0 | [StereoDepthEstimation](https://github.com/salihmarangoz/StereoDepthEstimation) | Stereo depth estimation with PSM-Net and GC-Net deep learning models |
 | 0 | 0 | [turkish_tea_optimization](https://github.com/salihmarangoz/turkish_tea_optimization) | My journey to find the best way for brewing tea. |
 
 ## Miscellaneous
@@ -55,4 +57,4 @@ Note: Projects in this section may reappear in other categories.
 
 
 
-Last updated: Mon Jan 24 06:19:14 2022
+Last updated: Mon Jan 31 06:16:14 2022
