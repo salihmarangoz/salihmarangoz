@@ -22,7 +22,7 @@ Note: Projects in this section may reappear in other categories.
 | ----- | ----- | ---------- | ----------- |
 | 1 | 0 | [extract_line_segments](https://github.com/salihmarangoz/extract_line_segments) | Line segment extraction using Douglas-Peucker algorithm. Works with ROS1. |
 | 0 | 0 | [robot_laser_simulator](https://github.com/salihmarangoz/robot_laser_simulator) | Robot 2D laser simulator for generating datasets. Works with ROS1. |
-| 6 | 5 | [robot_laser_grid_mapping](https://github.com/salihmarangoz/robot_laser_grid_mapping) | Log odds mapping where the robot pose is known. Works with ROS1. |
+| 7 | 5 | [robot_laser_grid_mapping](https://github.com/salihmarangoz/robot_laser_grid_mapping) | Log odds mapping where the robot pose is known. Works with ROS1. |
 | 0 | 0 | [robot_landmark_simulator](https://github.com/salihmarangoz/robot_landmark_simulator) | Robot landmark simulator generating CARMEN style logfile |
 | 1 | 0 | [image2gazebo](https://github.com/salihmarangoz/image2gazebo) | Generates SDF model for Gazebo Simulator using a PNG bitmap file |
 | 3 | 1 | [deep_navigation](https://github.com/salihmarangoz/deep_navigation) | Deep Learning based wall/corridor following P3AT robot (ROS, Tensorflow 2.0) |
@@ -46,7 +46,7 @@ Note: Projects in this section may reappear in other categories.
 | 0 | 0 | [AnswerOfTheUltimateQuestion](https://github.com/salihmarangoz/AnswerOfTheUltimateQuestion) | Took a lot of time to compute |
 | 21 | 3 | [UbuntuTweaks](https://github.com/salihmarangoz/UbuntuTweaks) | Ubuntu tweaks for speeding up the PC, fixing problems and installing nice utilities/tools |
 | 0 | 0 | [prevent_touchpad_toggle](https://github.com/salihmarangoz/prevent_touchpad_toggle) | Scripts for disabling touchpad toggle button to improve typing experience. |
-| 5 | 3 | [github_ci_nbconvert](https://github.com/salihmarangoz/github_ci_nbconvert) | Convert notebook (*.ipynb) files using Github Actions automatically after each commit and access HTML outputs with a public URL using Github Pages |
+| 6 | 3 | [github_ci_nbconvert](https://github.com/salihmarangoz/github_ci_nbconvert) | Convert notebook (*.ipynb) files using Github Actions automatically after each commit and access HTML outputs with a public URL using Github Pages |
 | 0 | 0 | [cpm_script](https://github.com/salihmarangoz/cpm_script) | A simple cmake package manager script |
 | 0 | 0 | [GithubBackup](https://github.com/salihmarangoz/GithubBackup) | Github backup script for private, forked and starred repositories |
 | 5 | 0 | [DrawOnConsole](https://github.com/salihmarangoz/DrawOnConsole) | 2D/3D animations on Windows console |
@@ -57,4 +57,4 @@ Note: Projects in this section may reappear in other categories.
 
 
 
-Last updated: Mon Jan 31 06:16:14 2022
+Last updated: Mon Feb  7 06:16:16 2022
