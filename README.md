@@ -26,7 +26,7 @@ Note: Projects in this section may reappear in other categories.
 | 0 | 0 | [robot_landmark_simulator](https://github.com/salihmarangoz/robot_landmark_simulator) | Robot landmark simulator generating CARMEN style logfile |
 | 1 | 0 | [image2gazebo](https://github.com/salihmarangoz/image2gazebo) | Generates SDF model for Gazebo Simulator using a PNG bitmap file |
 | 3 | 1 | [deep_navigation](https://github.com/salihmarangoz/deep_navigation) | Deep Learning based wall/corridor following P3AT robot (ROS, Tensorflow 2.0) |
-| 7 | 3 | [vl53l1x_scanner](https://github.com/salihmarangoz/vl53l1x_scanner) | DIY 2D/3D Laser Scanner and Depth Camera with ROS Driver (VL53L1X ToF Ranging Sensor + 28BYJ-48 Stepper Motor + Arduino) |
+| 8 | 4 | [vl53l1x_scanner](https://github.com/salihmarangoz/vl53l1x_scanner) | DIY 2D/3D Laser Scanner and Depth Camera with ROS Driver (VL53L1X ToF Ranging Sensor + 28BYJ-48 Stepper Motor + Arduino) |
 | 26 | 3 | [RobotMappingCourse](https://github.com/salihmarangoz/RobotMappingCourse) | Solutions to assignments of Robot Mapping Course WS 2013/14 |
 
 ## Deep Learning / Machine Learning
@@ -40,8 +40,8 @@ Note: Projects in this section may reappear in other categories.
 
 | Stars | Forks | Repository | Description |
 | ----- | ----- | ---------- | ----------- |
-| 20 | 5 | [system_tray_extensions](https://github.com/salihmarangoz/system_tray_extensions) | The successor of ite8291r3-gui project: System tray toolbox for Linux laptops |
 | 0 | 0 | [salihmarangoz](https://github.com/salihmarangoz/salihmarangoz) | My GitHub profile repository. README.md file is automatically generated according to my profile. |
+| 20 | 5 | [system_tray_extensions](https://github.com/salihmarangoz/system_tray_extensions) | The successor of ite8291r3-gui project: System tray toolbox for Linux laptops |
 | 0 | 0 | [oscilloscope_visualizer](https://github.com/salihmarangoz/oscilloscope_visualizer) | Having fun with oscilloscope music content on the Internet. Why not make myself an audio stream too? |
 | 0 | 0 | [AnswerOfTheUltimateQuestion](https://github.com/salihmarangoz/AnswerOfTheUltimateQuestion) | Took a lot of time to compute |
 | 21 | 3 | [UbuntuTweaks](https://github.com/salihmarangoz/UbuntuTweaks) | Ubuntu tweaks for speeding up the PC, fixing problems and installing nice utilities/tools |
@@ -57,4 +57,4 @@ Note: Projects in this section may reappear in other categories.
 
 
 
-Last updated: Mon Feb 28 06:17:47 2022
+Last updated: Mon Mar  7 06:19:14 2022
