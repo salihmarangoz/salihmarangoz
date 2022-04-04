@@ -21,13 +21,13 @@ Note: Projects in this section may reappear in other categories.
 | Stars | Forks | Repository | Description |
 | ----- | ----- | ---------- | ----------- |
 | 1 | 0 | [extract_line_segments](https://github.com/salihmarangoz/extract_line_segments) | Line segment extraction using Douglas-Peucker algorithm. Works with ROS1. |
-| 0 | 0 | [robot_laser_simulator](https://github.com/salihmarangoz/robot_laser_simulator) | Robot 2D laser simulator for generating datasets. Works with ROS1. |
-| 7 | 5 | [robot_laser_grid_mapping](https://github.com/salihmarangoz/robot_laser_grid_mapping) | Log odds mapping where the robot pose is known. Works with ROS1. |
+| 0 | 1 | [robot_laser_simulator](https://github.com/salihmarangoz/robot_laser_simulator) | Robot 2D laser simulator for generating datasets. Works with ROS1. |
+| 8 | 5 | [robot_laser_grid_mapping](https://github.com/salihmarangoz/robot_laser_grid_mapping) | Log odds mapping where the robot pose is known. Works with ROS1. |
 | 0 | 0 | [robot_landmark_simulator](https://github.com/salihmarangoz/robot_landmark_simulator) | Robot landmark simulator generating CARMEN style logfile |
 | 1 | 0 | [image2gazebo](https://github.com/salihmarangoz/image2gazebo) | Generates SDF model for Gazebo Simulator using a PNG bitmap file |
 | 3 | 1 | [deep_navigation](https://github.com/salihmarangoz/deep_navigation) | Deep Learning based wall/corridor following P3AT robot (ROS, Tensorflow 2.0) |
 | 8 | 4 | [vl53l1x_scanner](https://github.com/salihmarangoz/vl53l1x_scanner) | DIY 2D/3D Laser Scanner and Depth Camera with ROS Driver (VL53L1X ToF Ranging Sensor + 28BYJ-48 Stepper Motor + Arduino) |
-| 26 | 3 | [RobotMappingCourse](https://github.com/salihmarangoz/RobotMappingCourse) | Solutions to assignments of Robot Mapping Course WS 2013/14 |
+| 26 | 4 | [RobotMappingCourse](https://github.com/salihmarangoz/RobotMappingCourse) | Solutions to assignments of Robot Mapping Course WS 2013/14 |
 
 ## Deep Learning / Machine Learning
 
@@ -57,4 +57,4 @@ Note: Projects in this section may reappear in other categories.
 
 
 
-Last updated: Mon Mar 28 06:18:53 2022
+Last updated: Mon Apr  4 06:18:49 2022
