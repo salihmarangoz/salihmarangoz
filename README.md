@@ -40,6 +40,8 @@ Note: Projects in this section may reappear in other categories.
 
 | Stars | Forks | Repository | Description |
 | ----- | ----- | ---------- | ----------- |
+| 0 | 0 | [capsicum_superellipsoid_detector](https://github.com/salihmarangoz/capsicum_superellipsoid_detector) | None |
+| 0 | 0 | [superellipsoid_msgs](https://github.com/salihmarangoz/superellipsoid_msgs) | None |
 | 0 | 0 | [salihmarangoz](https://github.com/salihmarangoz/salihmarangoz) | My GitHub profile repository. README.md file is automatically generated according to my profile. |
 | 21 | 5 | [system_tray_extensions](https://github.com/salihmarangoz/system_tray_extensions) | The successor of ite8291r3-gui project: System tray toolbox for Linux laptops |
 | 0 | 0 | [oscilloscope_visualizer](https://github.com/salihmarangoz/oscilloscope_visualizer) | Having fun with oscilloscope music content on the Internet. Why not make myself an audio stream too? |
@@ -57,4 +59,4 @@ Note: Projects in this section may reappear in other categories.
 
 
 
-Last updated: Mon Apr  4 06:18:49 2022
+Last updated: Mon Apr 11 06:19:23 2022
