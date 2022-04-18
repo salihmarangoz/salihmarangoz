@@ -12,7 +12,8 @@ Note: Projects in this section may reappear in other categories.
 
 | Stars | Forks | Repository | Description |
 | ----- | ----- | ---------- | ----------- |
-| 21 | 5 | [system_tray_extensions](https://github.com/salihmarangoz/system_tray_extensions) | The successor of ite8291r3-gui project: System tray toolbox for Linux laptops |
+| 1 | 0 | [capsicum_superellipsoid_detector](https://github.com/salihmarangoz/capsicum_superellipsoid_detector) | Estimating shapes and volumes of Capsicum fruits (bell pepper) by fitting superellipsoids to 3D mapping data for autonomous crop monitoring tasks. |
+| 22 | 6 | [system_tray_extensions](https://github.com/salihmarangoz/system_tray_extensions) | The successor of ite8291r3-gui project: System tray toolbox for Linux laptops |
 | 0 | 0 | [StereoDepthEstimation](https://github.com/salihmarangoz/StereoDepthEstimation) | Stereo depth estimation with PSM-Net and GC-Net deep learning models |
 | 21 | 3 | [UbuntuTweaks](https://github.com/salihmarangoz/UbuntuTweaks) | Ubuntu tweaks for speeding up the PC, fixing problems and installing nice utilities/tools |
 
@@ -20,6 +21,8 @@ Note: Projects in this section may reappear in other categories.
 
 | Stars | Forks | Repository | Description |
 | ----- | ----- | ---------- | ----------- |
+| 1 | 0 | [capsicum_superellipsoid_detector](https://github.com/salihmarangoz/capsicum_superellipsoid_detector) | Estimating shapes and volumes of Capsicum fruits (bell pepper) by fitting superellipsoids to 3D mapping data for autonomous crop monitoring tasks. |
+| 0 | 0 | [superellipsoid_msgs](https://github.com/salihmarangoz/superellipsoid_msgs) | None |
 | 1 | 0 | [extract_line_segments](https://github.com/salihmarangoz/extract_line_segments) | Line segment extraction using Douglas-Peucker algorithm. Works with ROS1. |
 | 0 | 1 | [robot_laser_simulator](https://github.com/salihmarangoz/robot_laser_simulator) | Robot 2D laser simulator for generating datasets. Works with ROS1. |
 | 8 | 5 | [robot_laser_grid_mapping](https://github.com/salihmarangoz/robot_laser_grid_mapping) | Log odds mapping where the robot pose is known. Works with ROS1. |
@@ -40,10 +43,8 @@ Note: Projects in this section may reappear in other categories.
 
 | Stars | Forks | Repository | Description |
 | ----- | ----- | ---------- | ----------- |
-| 0 | 0 | [capsicum_superellipsoid_detector](https://github.com/salihmarangoz/capsicum_superellipsoid_detector) | None |
-| 0 | 0 | [superellipsoid_msgs](https://github.com/salihmarangoz/superellipsoid_msgs) | None |
 | 0 | 0 | [salihmarangoz](https://github.com/salihmarangoz/salihmarangoz) | My GitHub profile repository. README.md file is automatically generated according to my profile. |
-| 21 | 5 | [system_tray_extensions](https://github.com/salihmarangoz/system_tray_extensions) | The successor of ite8291r3-gui project: System tray toolbox for Linux laptops |
+| 22 | 6 | [system_tray_extensions](https://github.com/salihmarangoz/system_tray_extensions) | The successor of ite8291r3-gui project: System tray toolbox for Linux laptops |
 | 0 | 0 | [oscilloscope_visualizer](https://github.com/salihmarangoz/oscilloscope_visualizer) | Having fun with oscilloscope music content on the Internet. Why not make myself an audio stream too? |
 | 0 | 0 | [AnswerOfTheUltimateQuestion](https://github.com/salihmarangoz/AnswerOfTheUltimateQuestion) | Took a lot of time to compute |
 | 21 | 3 | [UbuntuTweaks](https://github.com/salihmarangoz/UbuntuTweaks) | Ubuntu tweaks for speeding up the PC, fixing problems and installing nice utilities/tools |
@@ -59,4 +60,4 @@ Note: Projects in this section may reappear in other categories.
 
 
 
-Last updated: Mon Apr 11 06:19:23 2022
+Last updated: Mon Apr 18 06:19:40 2022
