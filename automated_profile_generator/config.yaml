@@ -1,0 +1,63 @@
+---
+
+github:
+  username:                   "salihmarangoz"
+
+desktop:
+  template_path:              "TEMPLATE_desktop.md"
+  output_path:                "../README.md"
+  sort_repositories:          "pushed_at" # stargazers_count, watchers_count, forks_count, created_at, updated_at, pushed_at, ... see more: https://api.github.com/repos/salihmarangoz/salihmarangoz
+  sort_reversed:              true
+  use_repocards:              false
+  add_timestamp:              true
+  add_badge:                  true
+  add_profile_counter:        false
+
+include_repositories:         [] # forks and archived projects are hidden by default
+exclude_repositories:
+  - cpm_script
+  - prevent_touchpad_toggle
+  - superellipsoid_msgs
+  - salihmarangoz
+  - salihmarangoz.github.io-comments
+  - turkish_tea_optimization
+  - AnswerOfTheUltimateQuestion
+  - github_ci_nbconvert
+  - GithubBackup
+
+# order is important
+tags:
+  - name: "ROBOTICS PROJECTS"
+    description:
+    consume: true
+    repositories:
+      - moveit_collision_check 
+      - yolo_segmentation_ros
+      - dawn_ik
+      - capsicum_superellipsoid_detector
+      - extract_line_segments
+      - image2gazebo
+      - superellipsoid_msgs
+      - astar_pathfinder_grid_2d
+      - topic_buffer
+      - OptunaIK
+      - bio_ik_experiment
+      - StereoDepthEstimation
+
+  - name: "EDUCATIONAL/FUN PROJECTS"
+    description: Mostly for fun or education purposes.
+    consume: true
+    repositories:
+      - deep_navigation
+      - basic_scan_matcher
+      - RobotMappingCourse
+      - robot_landmark_simulator
+      - robot_laser_simulator
+      - xiaomi_lds_myhome
+      - vl53l1x_scanner
+      - robot_laser_grid_mapping
+
+  - name: "MISCELLANEOUS"
+    description:
+    consume: true
+    repositories: # Leave empty to include all non-consumed repositories
