@@ -24,31 +24,31 @@ exclude_repositories:
   - AnswerOfTheUltimateQuestion
   - github_ci_nbconvert
   - GithubBackup
+  - PythonExperiments
 
 # order is important
 tags:
-  - name: "ROBOTICS PROJECTS"
+  - name: "ROS1-READY PROJECTS"
     description:
     consume: true
     repositories:
-      - moveit_collision_check 
       - yolo_segmentation_ros
       - dawn_ik
       - capsicum_superellipsoid_detector
       - extract_line_segments
-      - image2gazebo
-      - superellipsoid_msgs
-      - astar_pathfinder_grid_2d
       - topic_buffer
-      - OptunaIK
-      - bio_ik_experiment
-      - StereoDepthEstimation
+      - depth_to_pointcloud_python
+      - depth_image_averaging
+      - image2gazebo
+      - moveit_collision_check
 
   - name: "EDUCATIONAL/FUN PROJECTS"
     description: Mostly for fun or education purposes.
     consume: true
     repositories:
       - deep_navigation
+      - astar_pathfinder_grid_2d
+      - StereoDepthEstimation
       - basic_scan_matcher
       - RobotMappingCourse
       - robot_landmark_simulator
@@ -56,6 +56,7 @@ tags:
       - xiaomi_lds_myhome
       - vl53l1x_scanner
       - robot_laser_grid_mapping
+      - bio_ik_experiment
 
   - name: "MISCELLANEOUS"
     description:
