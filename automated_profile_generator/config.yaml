@@ -47,13 +47,13 @@ tags:
     consume: true
     repositories:
       - StereoDepthEstimation
-      - deep_navigation
       - faq_question_answer_similarity_search 
 
   - name: "EDUCATIONAL/FUN PROJECTS"
     description: Mostly for fun or education purposes.
     consume: true
     repositories:
+      - deep_navigation
       - astar_pathfinder_grid_2d
       - basic_scan_matcher
       - RobotMappingCourse
