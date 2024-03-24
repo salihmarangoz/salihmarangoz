@@ -41,6 +41,7 @@ tags:
       - depth_image_averaging
       - image2gazebo
       - moveit_collision_check
+      - depth_image_veiling_effect_filter
 
   - name: "DEEP LEARNING PROJECTS"
     description:
